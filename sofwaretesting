@@ -1,0 +1,32 @@
+IMPORTANCE OF SOFTWARE TESTING 
+	indentify defects 
+	enhace on software quality
+	Builds Stakeholder Confidence
+KEYS CONCEPT ON SOFTWARE TESTING
+	Error	A mistake made by a programmer in the code.
+	Defect	A flaw in the software that causes it to behave unexpectedly.
+	Failure	The inability of the software to perform its intended function.
+    
+PRINCPLES OF SOFTWARE TESTING
+    	Testing Shows Presence of Defects	Testing can reveal defects but cannot prove their absence.
+	Exhaustive Testing is Not Possible	It’s impractical to test every possible scenario; focus on risks and priorities instead.
+	Early Testing	Start testing early in the development process to catch defects sooner.
+	Defect Clustering	A small number of modules often contain most defects; focus your testing efforts accordingly.
+	Pesticide Paradox	Running the same tests repeatedly will not uncover new defects; continually update test cases.
+	Testing is Context-Dependent	The approach to testing varies based on project context, such as complexity and risk factors.
+	Absence of Errors Fallacy	Just because a system is free from known defects doesn’t mean it’s useful or meets user needs.
+
+TYPES OF SOFTWARE TESTING
+	Unit Testing	Tests individual components for correct behavior.
+	Integration Testing	Ensures combined components work together correctly.
+	System Testing	Validates the complete system against specified requirements.
+	Acceptance Testing	Conducted to determine if the software meets user needs and is ready for deployment.
+	
+IMPACT OF EARLY TESTING IN THE SOFTWARE DEVELOPMENT LIFECYCLE
+	Requirement Analysis: Ensures that all requirements are clear and testable, reducing ambiguity.
+	Test Planning: Establishes a structured approach to testing, ensuring resources are allocated effectively.
+	Test Design: Creates detailed test cases that guide testers in executing tests systematically.
+	Test Environment Setup: Ensures a stable environment for accurate testing results.
+	Test Execution: Identifies defects early in the process, allowing for timely fixes.
+	Defect Reporting: Facilitates communication between testers and developers to ensure issues are addressed.
+	Test Closure: Provides insights into the testing process and highlights areas for improvement in future projects.
